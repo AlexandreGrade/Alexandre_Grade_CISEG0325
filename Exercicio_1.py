@@ -1,1 +1,1 @@
-print("POBRE")
+print("teste")
